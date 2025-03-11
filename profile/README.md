@@ -6,7 +6,7 @@ A Drinking Live é um e-commerce focado na comercialização de bebidas, buscand
 
 ## Desenvolvimento 🛠️
 <div style="align-items: center;">
-  <img src="img/javalogo.png"  width="15" >
-  <img src="img/mongodblogo.png" width="15" />
-  <img src="img/springbootlogo.png" width="15" />
+  <img src="img/javalogo.png"  width="32" >
+  <img src="img/mongodblogo.png" width="32" />
+  <img src="img/springbootlogo.png" width="32" />
 </div>
