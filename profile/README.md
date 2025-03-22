@@ -26,7 +26,6 @@ A Drinking Live é um e-commerce focado na comercialização de bebidas, buscand
 **Banco de dados**:
 - MongoDB
 
-#
 ## Desenvolvedores 💡
 - [Heloisa Machado](https://github.com/heloisa-machado)
 - [Marcos Araújo](https://github.com/Marquinhos-Guilherme)
@@ -34,8 +33,8 @@ A Drinking Live é um e-commerce focado na comercialização de bebidas, buscand
 
 ## Documentação 📄
 Para melhor compreensão da construção do projeto, acesse as seguintes documentações:
-- [Front-end](../../dkl-website/README.md)
-- [Back-end (API)](../../backApi/README.md)
+- [Front-end](https://github.com/DrinkingLive/dkl-website/blob/main/README.md)
+- [Back-end (API)](https://github.com/DrinkingLive/backApi)
 
 #
 
