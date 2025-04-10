@@ -4,6 +4,9 @@ Saciando a sua sede por algo novo!
 ## Sobre nós 🥂
 A Drinking Live é um e-commerce focado na comercialização de bebidas, buscando facilitar o processo de busca e compra de sucos, vinhos e outras opções alcoólicas.
 
+## 🚀 Como acessar o projeto
+Acesse a seguinte URL: https://dkl-website.onrender.com/home
+
 ## Desenvolvimento do website 🛠️
 <div style="align-items: center;">
   <img src="img/html-css-js-logo.png" width="96">
@@ -32,8 +35,8 @@ A Drinking Live é um e-commerce focado na comercialização de bebidas, buscand
 - [Natália Trindade](https://github.com/nataliatrindade)
 
 ## Documentação 📄
-Para melhor compreensão da construção do projeto, acesse as seguintes documentações:
-- [Front-end](https://github.com/DrinkingLive/dkl-website/blob/main/README.md)
+Para melhor compreensão da construção do projeto, acesse os arquivos `README` dos seguintes repositórios:
+- [Front-end](https://github.com/DrinkingLive/dkl-website)
 - [Back-end (API)](https://github.com/DrinkingLive/backApi)
 
 #
