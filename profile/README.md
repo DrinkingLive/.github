@@ -39,6 +39,11 @@ Para melhor compreensão da construção do projeto, acesse os arquivos `README`
 - [Front-end](https://github.com/DrinkingLive/dkl-website)
 - [Back-end (API)](https://github.com/DrinkingLive/backApi)
 
-#
+## 📆 Planos futuros
+- Gerenciamento dos pedidos (tanto front quanto back-end);
+- Geração de um recibo após uma compra ser realizada;
+- Padronizar nomenclatura das classes e ids do front-end;
+- Melhorias na responsividade do site.
 
+#
 Estamos comprometidos a tornar a compra de bebidas uma experiência tão satisfatória quanto saciar a sede!
